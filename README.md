@@ -1,2 +1,2 @@
-# nn_only_math
+# nn_only_NumPy
 A neural network from scratch without using TensorFlow/Keras, only NumPy and math.
